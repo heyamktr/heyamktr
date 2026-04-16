@@ -29,11 +29,8 @@
 <a href="https://linkedin.com/in/nguyen tien khanh truong" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://fb.com/khanh truong" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/is.khanlns" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+<a href="https://khanh-truong.vercel.app/" target="blank">
+  <img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" height="30" width="30" />
 </a>
 </p>
 
