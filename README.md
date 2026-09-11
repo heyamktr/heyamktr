@@ -19,7 +19,7 @@
 - 👯 Open to collaborating on **web, AI, or game development projects**
 - 🤝 Interested in **accessibility-first engineering and inclusive design**
 - 💬 Ask me about **React, Vue, GSAP, or applying tech for real-world impact**
-- 📫 Reach me at: **ntruong_2028@depauw.edu**
+- 📫 Reach me at: **truongnguyent.khanh@gmail.com**
 - ⚡ Fun fact: I play the flute
 
 ---
